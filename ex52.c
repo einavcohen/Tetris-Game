@@ -1,4 +1,3 @@
-//Einav Cohen 318506615
 
 #include <stdio.h>
 #include <stdlib.h>
